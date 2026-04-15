@@ -1,0 +1,9 @@
+Game_name:FloralTale;
+Game_key:6e20d5db379c03;
+Title_img:QQ20250223-120848.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Game_Logo:;
+Description:;
+Package_name:;
+Steam_AppID:;
